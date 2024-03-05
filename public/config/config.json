@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3bC148D56c9E1f861839cEa67DaeC7901E3365F9",
+  "SCAN_LINK": "https://mainnet.opbnbscan.com/address/0x5c00185f0e1e0058d5758f1e1b71c51fd42a0817",
+  "NETWORK": {
+    "NAME": "Blast",
+    "SYMBOL": "ETH",
+    "ID":81457
+  },
+  "NFT_NAME": "Blast Ape",
+  "SYMBOL": "BABC",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 15000000000000000,
+  "DISPLAY_COST": 0.00299,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Soon",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
